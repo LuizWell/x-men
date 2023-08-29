@@ -1,7 +1,7 @@
 # x-men - projeto dev em dobro
 Projeto Front End 🚀
 
-## Tecmologias utilizadas
+## Tecnologias utilizadas
 - HTML
 - CSS
 - JS
